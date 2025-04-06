@@ -2,7 +2,7 @@
 
 An interactive web application that allows users to upload PDF documents and ask questions about their content using various AI models.
 
-![PDF Q&A Assistant](images/app-frontend.png)
+![PDF Q&A Assistant](images/img1.png)
 
 ## Features
 
@@ -14,17 +14,14 @@ An interactive web application that allows users to upload PDF documents and ask
 
 ## Screenshots
 
-### Initial Interface
-![Initial Interface](images/app-frontend.png)
-
 ### OpenAI Model Processing
-![OpenAI Processing](images/openai-processing.png)
+![OpenAI Processing](images/img2.png)
 
 ### Google Gemini Integration
-![Google Gemini](images/gemini-processing.png)
+![Google Gemini](images/img3.png)
 
 ### Local Mistral Processing
-![Local Mistral](images/mistral-local.png)
+![Local Mistral](images/img4.png)
 
 ## Installation
 
