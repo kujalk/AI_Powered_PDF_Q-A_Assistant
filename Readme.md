@@ -110,9 +110,9 @@ curl "https://generativelanguage.googleapis.com/v1beta/models?key=YOUR_GEMINI_AP
 
 ## About the Developer
 
-PDF Q&A Assistant is developed by [John Doe](https://github.com/johndoe).
+PDF Q&A Assistant is developed by [Janarthanan Kugathasan](https://github.com/kujalk).
 
-For more insights on AI and development, check out my [WordPress blog](https://johndoe.wordpress.com).
+For more insights on AI and development, check out my [WordPress blog](https://scripting4ever.wordpress.com/).
 
 ## License
 
