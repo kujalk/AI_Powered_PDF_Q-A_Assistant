@@ -109,7 +109,7 @@ curl "https://generativelanguage.googleapis.com/v1beta/models?key=YOUR_GEMINI_AP
 
 PDF Q&A Assistant is developed by [Janarthanan Kugathasan](https://github.com/kujalk).
 
-For more insights on AI and development, check out my [WordPress blog](https://scripting4ever.wordpress.com/).
+For more insights on AI and development, check out my [WordPress blog](https://scripting4ever.wordpress.com/2025/04/07/build-an-ai-powered-qa-assistant-for-your-pdf-files/).
 
 ## License
 
